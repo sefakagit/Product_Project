@@ -1,0 +1,16 @@
+C:\Users\SEM\source\repos\ProductProcet\ProductProcet\bin\Debug\ProductProcet.exe.config
+C:\Users\SEM\source\repos\ProductProcet\ProductProcet\bin\Debug\ProductProcet.exe
+C:\Users\SEM\source\repos\ProductProcet\ProductProcet\bin\Debug\ProductProcet.pdb
+C:\Users\SEM\source\repos\ProductProcet\ProductProcet\obj\Debug\ProductProcet.csproj.AssemblyReference.cache
+C:\Users\SEM\source\repos\ProductProcet\ProductProcet\obj\Debug\ProductProcet.csproj.SuggestedBindingRedirects.cache
+C:\Users\SEM\source\repos\ProductProcet\ProductProcet\obj\Debug\ProductProcet.Form1.resources
+C:\Users\SEM\source\repos\ProductProcet\ProductProcet\obj\Debug\ProductProcet.Properties.Resources.resources
+C:\Users\SEM\source\repos\ProductProcet\ProductProcet\obj\Debug\ProductProcet.csproj.GenerateResource.cache
+C:\Users\SEM\source\repos\ProductProcet\ProductProcet\obj\Debug\ProductProcet.csproj.CoreCompileInputs.cache
+C:\Users\SEM\source\repos\ProductProcet\ProductProcet\obj\Debug\ProductProcet.exe
+C:\Users\SEM\source\repos\ProductProcet\ProductProcet\obj\Debug\ProductProcet.pdb
+C:\Users\SEM\source\repos\ProductProcet\ProductProcet\bin\Debug\EntityFramework.dll
+C:\Users\SEM\source\repos\ProductProcet\ProductProcet\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SEM\source\repos\ProductProcet\ProductProcet\bin\Debug\EntityFramework.xml
+C:\Users\SEM\source\repos\ProductProcet\ProductProcet\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SEM\source\repos\ProductProcet\ProductProcet\obj\Debug\ProductProcet.csproj.CopyComplete
